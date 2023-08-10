@@ -2,8 +2,8 @@ body{
     background-color: rgb(249, 247, 245);
 }
 .h3{
-    display: inline;
     background-color: rgb(151, 160, 162);
+    color: rgb(1, 11, 16);
     padding: 5px;
 }
 div{
@@ -15,4 +15,7 @@ div{
 div p,li,a{
     color: aliceblue;
     font-size: 20px;
+}
+li{
+    padding: 10px;
 }
