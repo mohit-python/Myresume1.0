@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(249, 247, 245);
+}
+.h3{
+    display: inline;
+    background-color: rgb(151, 160, 162);
+    padding: 5px;
+}
+div{
+    display: flex;
+    flex-direction:column;
+    background-color: rgb(32, 33, 32);
+    padding: 1.5rem;
+}
+div p,li,a{
+    color: aliceblue;
+    font-size: 20px;
+}
